@@ -1,0 +1,9 @@
+{
+    "MutableAI.experimentalFeatures": {
+        "staging": true,
+        "useNewModelForAutocomplete": true,
+        "202309-deprecated": true,
+        "202309-suggestIntoBuffer": true,
+        "202310-highlightEdit": true
+    }
+}
